@@ -8,4 +8,4 @@ Tech
 - Storage: DuckDB
 - Dashboard: Streamlit
 
-Author: amoah83
+Author: mac332005
